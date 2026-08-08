@@ -1,6 +1,6 @@
 # PM_Inv: Predominant Mode Surface-Wave Inversion
 
-PM_Inv is a MATLAB package for surface-wave inversion based on the **Predominant Mode (PM)** framework. The software estimates layered shear-wave velocity (Vs) profiles from measured surface-wave dispersion curves using a **Hybrid Thin-Layer Method (HTLM)** forward solver coupled with an adaptive **Differential Evolution (DE)** optimization algorithm.
+PM_Inv is a MATLAB package for surface-wave inversion based on the **Predominant Mode (PM)** framework. This method is particularly useful when the target dispersion data is constructed combining multiple active shot, together with ambient-noise passive data. The software estimates shear-wave velocity (Vs) profiles from measured surface-wave dispersion data using a **Hybrid Thin-Layer Method (HTLM)** forward solver coupled with an adaptive **Differential Evolution (DE)** optimization algorithm.
 
 The package implements both:
 
