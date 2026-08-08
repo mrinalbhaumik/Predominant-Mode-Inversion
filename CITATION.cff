@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: "PM_Inv: MATLAB Package for Predominant Mode Surface-Wave Inversion"
+message: "If you use this software in your research, please cite both the software and the associated journal publication."
+type: software
+
+authors:
+  - family-names: "Bhaumik"
+    given-names: "Mrinal"
+    affiliation: "Utah State University"
+    email: "mrinal.bhaumik@usu.edu"
+    orcid: "https://orcid.org/0000-0001-8906-0971"
+
+repository-code: "https://github.com/mrinalbhaumik/Predominant-Mode-Inversion"
+
+license: "GPL-3.0"
+
+keywords:
+  - Surface-wave inversion
+  - Shear-wave velocity
+  - Predominant Mode
+  - VCPM
+  - RCPM
+  - Differential Evolution
+  - MATLAB
+  - Geotechnical Earthquake Engineering
+  - Seismic Site Characterization
+
+version: "1.0.0"
+
+date-released: "2026-08-07"
+
+abstract: >
+  PM_Inv is a MATLAB package implementing the Predominant Mode (PM)
+  inversion framework for one-dimensional surface-wave inversion using
+  Differential Evolution. The software supports both Vertical Component
+  Predominant Mode (VCPM) and Radial Component Predominant Mode (RCPM)
+  inversion for estimating layered shear-wave velocity (Vs) profiles
+  from measured surface-wave dispersion curves.
